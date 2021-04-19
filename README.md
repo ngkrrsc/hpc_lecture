@@ -1,5 +1,5 @@
 # hpc_lecture
-
+21M12088 Sotaro Tsuchiya
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
